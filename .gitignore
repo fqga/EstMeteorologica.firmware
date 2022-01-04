@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+/.settings
+/Debug
+
 # Object files
 *.o
 *.ko
