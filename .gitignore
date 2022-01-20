@@ -1,8 +1,12 @@
+/.settings
+
+/Debug
+/
+*.launch
+
+
 # Prerequisites
 *.d
-
-/.settings
-/Debug
 
 # Object files
 *.o
